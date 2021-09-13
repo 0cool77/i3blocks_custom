@@ -1,5 +1,4 @@
 # i3blocks_custom
-# i3blocks_custom
 This i3bocks configuration is my custom config.
 As source for the configuration I took the following Github repositories:
 - https://github.com/vivien/i3blocks
